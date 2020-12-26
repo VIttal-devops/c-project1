@@ -1,7 +1,7 @@
 #include <stdio.h>
 void palin() {
     int n, reversedN = 0, remainder, originalN;
-    printf("Enter an integer: ");
+    printf("\n\nEnter an integer: ");
     scanf("%d", &n);
     originalN = n;
 
