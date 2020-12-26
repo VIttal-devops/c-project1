@@ -2,7 +2,7 @@
 
 void big2() {
     int a, b;
-    printf("Please Enter Two different values\n");
+    printf("\n\nPlease Enter Two different values\n");
     scanf("%d %d", &a, &b);
 
     if(a > b)
